@@ -1,0 +1,16 @@
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        app:fontStyle="normal"
+        app:fontWeight="300"
+        app:font="@font/sport" />
+    <font
+        app:fontStyle="italic"
+        app:fontWeight="300"
+        app:font="@font/sport" />
+    <font
+        app:font="@font/sport"
+        app:fontStyle="normal"
+        app:fontWeight="300" />
+
+</font-family>

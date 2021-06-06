@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Challange</string>
+    <string name="text_player">PLAYER</string>
+    <string name="text_com">COM</string>
+    <string name="toast_text_reset">Reset Please!!</string>
+</resources>
