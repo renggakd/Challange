@@ -14,7 +14,7 @@ class Controller (var callBack: CallBack){
             result = R.drawable.iv_player_win
                 Log.d("result", "Player Win")
         } else if (player == "papper" && computer == "scissors" || player == "scissors" && computer == "stone" || player == "stone" && computer == "papper") {
-            result = R.drawable.iv_comp_win
+            result = R.drawable.iv_computer_win
             Log.d("result", "Computer Win")
         } else if (player == "papper" && computer == "papper" || player == "scissors" && computer == "scissors" || player == "stone" && computer == "stone") {
             result = R.drawable.draw
