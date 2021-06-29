@@ -4,4 +4,16 @@
     <string name="text_player">PEMAIN</string>
     <string name="text_com">KOMPUTER</string>
     <string name="toast_text_reset">Mohon Reset!!</string>
+    <string name="text_user_vs_user">%s vs Pemain</string>
+    <string name="text_user_vs_cpu">%s vs Robot</string>
+    <string name="text_welcome">Selamat Datang %s</string>
+    <string name="text_enter_your_name">Masukan Namamu</string>
+    <string name="next">Setelah</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="text_player_dialog">PEMAING MENANG</string>
+    <string name="text_game_result_dialog">Hasil Permainan</string>
+    <string name="text_play_again_dialog">Bermain Kembali</string>
+    <string name="text_back_to_menu_dialog">Kembali Ke Menu</string>
+    <string name="text_play_with_your_friend_landing1">Bermain Bersama Temanmu</string>
+    <string name="text_play_with_computer_landing2">Bermain Bersama Robot</string>
 </resources>

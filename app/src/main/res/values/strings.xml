@@ -3,4 +3,25 @@
     <string name="text_player">PLAYER</string>
     <string name="text_com">COM</string>
     <string name="toast_text_reset">Reset Please!!</string>
+    <string name="title_activity_splash_screen" translatable="false">SplashScreenActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text_user_vs_user">%s vs Player</string>
+    <string name="text_user" translatable="false">%s</string>
+    <string name="text_user_vs_cpu">%s vs Computer</string>
+    <string name="text_welcome">Welcome %s</string>
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="text_enter_your_name">Enter Your Name</string>
+    <string name="text_player_dialog">PLAYER WIN</string>
+    <string name="text_game_result_dialog">Game Result</string>
+    <string name="text_play_again_dialog">Play Again</string>
+    <string name="text_back_to_menu_dialog">Back To Menu</string>
+    <string name="text_play_with_your_friend_landing1">Play With Your Friend</string>
+    <string name="text_play_with_computer_landing2">Play With Computer</string>
 </resources>
